@@ -15,6 +15,10 @@
       "name": "Samsung s20+",
       "price": 5000.89
     },
-    
+    {
+      "name": "veio do formulário",
+      "price": "9.99",
+      "id": 4
+    }
   ]
 }
