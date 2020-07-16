@@ -19,6 +19,11 @@
       "name": "veio do formulário",
       "price": "9.99",
       "id": 4
+    },
+    {
+      "name": "notebook",
+      "price": "3250",
+      "id": 5
     }
   ]
 }
